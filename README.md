@@ -1,14 +1,20 @@
 
-# Olá, eu sou Diego Líma!
+<h1 align="center">Oi 👋, Eu sou Diego Líma</h1>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diegolimagomes)](https://github.com/diegolimagomes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/diego-lima-gomes/)](https://www.linkedin.com/in/diego-lima-gomes/)
 
-## Sobre mim:
+<h3 align="center">📊 Analista de Dados apaixonado por traduzir dados complexos em soluções claras. Exploro, analiso e crio impacto através da magia dos números. ✨💻</h3>
 
 Eu sou um Desenvolvedor Fron-End :smile:
 
 Como desenvolvedor, sei que todo projeto vem com seu próprio conjunto de desafios e adoro encontrar soluções criativas para superá-los. 
+
+- 🔭 Atualmente estou trabalhando **na Dataprev**
+
+- 👯 Eu procuro colaborar **em projetos de análise de dados**
+
+- 📫 Fale comigo **diegocontatodl@gmail.com**
 
 ## Minhas Especialidades:
 
