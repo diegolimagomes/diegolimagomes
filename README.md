@@ -6,9 +6,6 @@
 
 <h3 align="center">📊 Analista de Dados apaixonado por traduzir dados complexos em soluções claras. Exploro, analiso e crio impacto através da magia dos números. ✨💻</h3>
 
-Eu sou um Desenvolvedor Fron-End :smile:
-
-Como desenvolvedor, sei que todo projeto vem com seu próprio conjunto de desafios e adoro encontrar soluções criativas para superá-los. 
 
 - 🔭 Atualmente estou trabalhando **na Dataprev**
 
